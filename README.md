@@ -7,3 +7,6 @@ My 42 school mates for this project :
   <li><a href="https://github.com/rfulop/">rfulop</a></li>
   <li>mlambert</li>
 </ul>
+
+<p align=center><img src="http://gdurl.com/lGIy" alt="game rules screenshot">
+<br>Img. Screenshot of the virtual arena (corewar program)</p>
